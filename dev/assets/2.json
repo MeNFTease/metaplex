@@ -1,0 +1,65 @@
+{
+  "name": "MeNFTease #2",
+  "symbol": "MEN",
+  "description": "One of 6969 sexy, sultry men, begging to squeeze into your tight wallet.",
+  "seller_fee_basis_points": 1000,
+  "image": "2.png",
+  "external_url": "https://menftea.se",
+  "collection": {
+    "name": "Sexy Sultry Men",
+    "family": "Men"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ORNATE_PORTRAIT"
+    },
+    {
+      "trait_type": "Gradient",
+      "value": "ORANGE"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "GLOSSY"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ALLURING"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "BARE"
+    },
+    {
+      "trait_type": "Gradient",
+      "value": "Inverted SENSITIVE SUNSET"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "COUPLES_WORKOUT"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "TEARS"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "77V9BFLxMhJUtEodSszXTpPTXe9zPRAxC7FceZq8TXFP",
+        "share": 100
+      }
+    ]
+  }
+}
